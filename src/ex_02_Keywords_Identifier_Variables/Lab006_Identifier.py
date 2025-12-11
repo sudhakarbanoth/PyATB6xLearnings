@@ -1,4 +1,8 @@
 # Identifier -variable names
+# Literals - Values assigned to variables
+# age - identifier
+# 65 - literal
+# = - operator
 age = 65
 _age = 65
 
