@@ -14,3 +14,6 @@ print(_)
 
 # number cannot be a variable
 # Alpha Numeric is possible
+
+abc123="abc123"
+print(abc123)
