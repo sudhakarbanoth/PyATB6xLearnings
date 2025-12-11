@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab016_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab017_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab019_Data_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_03_Literals_Variable(11-Oct-2025)">
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab023_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_String_Conversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab028_String_Double_Single_Diff.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +71,14 @@
     "Python.Lab016_Literals.executor": "Run",
     "Python.Lab017_Multi_Comments.executor": "Run",
     "Python.Lab018_Multi_Comments.executor": "Run",
+    "Python.Lab020_BuiltIn_Functions.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
+    "Python.Lab023_Strings.executor": "Run",
+    "Python.Lab024_String_Conversions.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab027_Escape_Char.executor": "Run",
+    "Python.Lab028_String_Double_Single_Diff.executor": "Run",
     "Python.Lab_019_Data_Types.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -212,12 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765467855828</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Committing ex_03_Literals_Variable(11-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1765475050258</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765475050258</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)" />
+    <MESSAGE value="Committing ex_03_Literals_Variable(11-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_03_Literals_Variable(11-Oct-2025)" />
   </component>
 </project>
