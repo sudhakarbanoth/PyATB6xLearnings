@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab007_Variables_Names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab009_Identifier_Rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab010_maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab011_IQ_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab012_multiple_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab013_Multiple_Prints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab014_Math_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab015_IQ.py" afterDir="false" />
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)">
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab016_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab017_Multi_Comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab019_Data_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +65,10 @@
     "Python.Lab013_Multiple_Prints.executor": "Run",
     "Python.Lab014_Math_Functions.executor": "Run",
     "Python.Lab015_IQ.executor": "Run",
+    "Python.Lab016_Literals.executor": "Run",
+    "Python.Lab017_Multi_Comments.executor": "Run",
+    "Python.Lab018_Multi_Comments.executor": "Run",
+    "Python.Lab_019_Data_Types.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -205,11 +204,20 @@
       <option name="project" value="LOCAL" />
       <updated>1765438540937</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1765467855828</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765467855828</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)" />
   </component>
 </project>
