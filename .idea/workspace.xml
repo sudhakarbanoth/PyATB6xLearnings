@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_03_Literals_Variable(11-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Arth_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Unary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab032_Comp_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logical_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab034_Operators_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab035_Operators_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Comparsion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Logical.py" afterDir="false" />
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_03_Operators(14-Oct-2025)">
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab038_Operators_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab039_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Operators_P9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_User_Input_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Membership_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Identity_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +85,21 @@
     "Python.Lab030_Task2.executor": "Run",
     "Python.Lab035_Operators_P4.executor": "Run",
     "Python.Lab037_Operators_Logical.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Operators_P9.executor": "Run",
+    "Python.Lab041_Membership_Operator.executor": "Run",
+    "Python.Lab042_Identity_Operator.executor": "Run",
+    "Python.Lab042_Math.executor": "Run",
     "Python.Lab_019_Data_Types.executor": "Run",
     "Python.Lab_031_Arth_Operators.executor": "Run",
     "Python.Lab_031_Unary_Operator.executor": "Run",
     "Python.Lab_032_Comp_Operators.executor": "Run",
     "Python.Lab_033_Logical_Operators.executor": "Run",
     "Python.Lab_034_Operators_P2.executor": "Run",
+    "Python.Lab_038_Operators_Example.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
+    "Python.Task003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -259,13 +265,22 @@
       <option name="project" value="LOCAL" />
       <updated>1767336308431</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Committing ex_03_Operators(14-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1767360690370</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1767360690370</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Committing ex_02_Keywords_Identifier_Variables (11-Oct-2025)" />
     <MESSAGE value="Committing ex_03_Literals_Variable(11-Oct-2025)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_03_Literals_Variable(11-Oct-2025)" />
+    <MESSAGE value="Committing ex_03_Operators(14-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_03_Operators(14-Oct-2025)" />
   </component>
 </project>

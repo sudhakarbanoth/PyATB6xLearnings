@@ -1,5 +1,5 @@
 x = 10
 x += 5
-print(x)
+print(x) # output is 15
 x *= 2
-print(x)
+print(x) # Output is 30
