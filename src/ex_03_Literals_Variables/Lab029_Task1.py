@@ -1,0 +1,10 @@
+num1= float(input("Enter a number: "))
+num2= float(input("Enter another number: "))
+num3=  float(input("Enter third number: "))
+
+print("Addition is: ", num1+num2+num3)
+print("Subtraction is: ", num1-num2-num3)
+print("Multiplication is: ",num1*num2*num3)
+print("Division is: ", (num1/num2)/num3)
+print("Return Quotient is: ",num1//num2)
+print("Return Reminder is: ",num1%num2)

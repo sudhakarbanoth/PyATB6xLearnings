@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_03_Literals_Variable(11-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_String_Conversions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab028_String_Double_Single_Diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +73,7 @@
     "Python.Lab025_Strings.executor": "Run",
     "Python.Lab027_Escape_Char.executor": "Run",
     "Python.Lab028_String_Double_Single_Diff.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
     "Python.Lab_019_Data_Types.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -231,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765475050258</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Committing ex_03_Literals_Variable(11-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1765477230126</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765477230126</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
