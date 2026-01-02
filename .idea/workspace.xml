@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_03_Literals_Variable(11-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Arth_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Unary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab032_Comp_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logical_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab034_Operators_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab035_Operators_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Comparsion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Logical.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab029_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab030_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +83,15 @@
     "Python.Lab027_Escape_Char.executor": "Run",
     "Python.Lab028_String_Double_Single_Diff.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab035_Operators_P4.executor": "Run",
+    "Python.Lab037_Operators_Logical.executor": "Run",
     "Python.Lab_019_Data_Types.executor": "Run",
+    "Python.Lab_031_Arth_Operators.executor": "Run",
+    "Python.Lab_031_Unary_Operator.executor": "Run",
+    "Python.Lab_032_Comp_Operators.executor": "Run",
+    "Python.Lab_033_Logical_Operators.executor": "Run",
+    "Python.Lab_034_Operators_P2.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -234,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765477230126</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Committing ex_03_Literals_Variable(11-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1767336308431</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1767336308431</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
