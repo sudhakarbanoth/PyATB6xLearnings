@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_04_Operators(16-Oct-2025)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing ex_05_Conditions and Loops (16-Oct-2025)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -406,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767952411739</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Committing ex_05_Conditions and Loops (16-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1769672176477</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1769672176477</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,6 +421,7 @@
     <MESSAGE value="Committing ex_03_Operators(14-Oct-2025)" />
     <MESSAGE value="Committing ex_04_Operators(14-Oct-2025)" />
     <MESSAGE value="Committing ex_04_Operators(16-Oct-2025)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_04_Operators(16-Oct-2025)" />
+    <MESSAGE value="Committing ex_05_Conditions and Loops (16-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing ex_05_Conditions and Loops (16-Oct-2025)" />
   </component>
 </project>
