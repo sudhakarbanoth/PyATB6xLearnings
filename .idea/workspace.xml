@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing Tasks for (16-Oct-2025)">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabMatch002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabSwitch001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab049_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Task007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +94,15 @@
     "Python.Lab045_If_Else_Condition.executor": "Run",
     "Python.Lab046_if_else_elif.executor": "Run",
     "Python.Lab047_Grade_Calc.executor": "Run",
+    "Python.Lab048_Loop.executor": "Run",
+    "Python.Lab049_For_Loop.executor": "Run",
+    "Python.Lab050_For_Loop.executor": "Run",
+    "Python.Lab051_IQ.executor": "Run",
+    "Python.Lab052_IQ2.executor": "Run",
+    "Python.LabForReverse.executor": "Run",
+    "Python.LabForUsedRealLife.executor": "Run",
+    "Python.LabMatch002.executor": "Run",
+    "Python.LabSwitch001.executor": "Run",
     "Python.Lab_019_Data_Types.executor": "Run",
     "Python.Lab_031_Arth_Operators.executor": "Run",
     "Python.Lab_031_Unary_Operator.executor": "Run",
@@ -106,8 +123,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task007">
-    <configuration name="Lab047_Grade_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.LabForUsedRealLife">
+    <configuration name="Lab050_For_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab051_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab052_IQ2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabForReverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabForUsedRealLife" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/For" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task007" />
-        <item itemvalue="Python.Task006" />
-        <item itemvalue="Python.Task005" />
-        <item itemvalue="Python.Task004" />
-        <item itemvalue="Python.Lab047_Grade_Calc" />
+        <item itemvalue="Python.LabForUsedRealLife" />
+        <item itemvalue="Python.LabForReverse" />
+        <item itemvalue="Python.Lab052_IQ2" />
+        <item itemvalue="Python.Lab051_IQ" />
+        <item itemvalue="Python.Lab050_For_Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769881348497</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Committing Tasks for (16-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1769881548392</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1769881548392</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
