@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing Tasks for (16-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabMatch002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab049_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing For Loop  (18-Oct-2025)">
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -459,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769881548392</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Committing For Loop  (18-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1769894162819</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1769894162819</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -471,6 +470,7 @@
     <MESSAGE value="Committing ex_04_Operators(16-Oct-2025)" />
     <MESSAGE value="Committing ex_05_Conditions and Loops (16-Oct-2025)" />
     <MESSAGE value="Committing Tasks for (16-Oct-2025)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing Tasks for (16-Oct-2025)" />
+    <MESSAGE value="Committing For Loop  (18-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing For Loop  (18-Oct-2025)" />
   </component>
 </project>
