@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing Tasks (18-Oct-2025)">
-      <change afterPath="$PROJECT_DIR$/Task/Task_FizzBuzz_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab054_For_While_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab056_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_Odd_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_Vs_Continue_059.py" afterDir="false" />
+    <list default="true" id="c7690cad-6321-40de-8dfc-79a785c134c2" name="Changes" comment="Committing Examples of FOR Loop (28-Oct-2025)">
+      <change afterPath="$PROJECT_DIR$/Task/Task_28_Oct.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Task008_fact.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task008_fact.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +119,8 @@
     "Python.Task010.executor": "Run",
     "Python.Task2_18-Oct.executor": "Run",
     "Python.Task_18-Oct.executor": "Run",
+    "Python.Task_28_Oct.executor": "Run",
+    "Python.Task_FizzBuzz_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -139,7 +133,7 @@
       <recent name="C:\Users\bhask\PycharmProjects\PyATB6xLearnings\src\ex_07_Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_FizzBuzz_test">
+  <component name="RunManager" selected="Python.Task_28_Oct">
     <configuration name="Lab054_For_While_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
@@ -184,28 +178,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearnings" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bhask\PycharmProjects\PyATB6xLearnings\Task\Task009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Task010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearnings" />
       <option name="ENV_FILES" value="" />
@@ -220,6 +192,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task010.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_28_Oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearnings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_28_Oct.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_28_Oct" />
         <item itemvalue="Python.Task_FizzBuzz_test" />
         <item itemvalue="Python.LabPass_Vs_Continue_059" />
         <item itemvalue="Python.Lab054_For_While_IQ" />
         <item itemvalue="Python.Task010" />
-        <item itemvalue="Python.Task009" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770059657469</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Committing Examples of FOR Loop (28-Oct-2025)">
+      <option name="closed" value="true" />
+      <created>1770133788682</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1770133788682</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -546,6 +548,7 @@
     <MESSAGE value="Committing For Loop  (18-Oct-2025)" />
     <MESSAGE value="Committing while Loop  (18-Oct-2025)" />
     <MESSAGE value="Committing Tasks (18-Oct-2025)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing Tasks (18-Oct-2025)" />
+    <MESSAGE value="Committing Examples of FOR Loop (28-Oct-2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing Examples of FOR Loop (28-Oct-2025)" />
   </component>
 </project>
